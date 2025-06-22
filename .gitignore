@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (you might decide to keep train.csv locally but not in the repo)
+train.csv
+*.zip
